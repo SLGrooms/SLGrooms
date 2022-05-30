@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SLGrooms
 - 👀 I’m interested in Adobe Photoshop, Adobe Illustrator, UI/UX, Photography.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap
+- 🌱 I’m currently know HTML, CSS, JavaScript, Bootstrap, PHP.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me @Sammorz on Instagram and Twitter!
 
